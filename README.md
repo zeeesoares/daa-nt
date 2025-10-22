@@ -1,5 +1,5 @@
 # daa-nt
-out competion task studying traffic incidents 
+out competion task studying traffic in Pourtouuu! 
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

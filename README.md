@@ -18,3 +18,14 @@ our competition task that studies the traffic problem in Pourtouuu!
 ⠀⠀⠀⠀⠀⢀⣤⠾⠋⠀⠀⠀⠀⠀⠙⠋⠀⠀⠀⠀⠀⠙⠷⣤⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀
 ```
+
+Depois de instalar uma lib nova (root do projeto):
+```
+pip freeze > requirements.txt
+```
+
+
+Correr (root do projeto): 
+```
+pip install -r requirements.txt --upgrade
+```

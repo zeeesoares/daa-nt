@@ -1,4 +1,5 @@
 daa-tp/
 __pycache__/
 .ipynb_checkpoints/
+submissions/
 *.pyc

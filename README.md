@@ -19,13 +19,13 @@ our competition task that studies the traffic problem in Pourtouuu!
 ⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀
 ```
 
-Depois de instalar uma lib nova (root do projeto):
+After installing a new lib:
 ```
 pip freeze > requirements.txt
 ```
 
 
-Correr (root do projeto): 
+Run (project root): 
 ```
 pip install -r requirements.txt --upgrade
 ```

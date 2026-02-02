@@ -1,4 +1,5 @@
 # daa-nt
+Final Grade: 18.7/20.0 ⭐
 our competition task that studies the traffic problem in Pourtouuu!
 
 ```
